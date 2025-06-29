@@ -48,11 +48,6 @@ To run the application:
 ```bash
 python main.py
 ```
-To run the .exe directly:
-
-```bash
-dist/main.exe
-```
 
 ---
 
